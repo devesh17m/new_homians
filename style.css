@@ -164,3 +164,35 @@ border-radius: 15px;
         width: 14vw;
     }
 }
+@media only screen and (max-width: 415px){
+    .card_left{
+        height: 18vh;
+        width: 28vw;
+        margin-top: 1vh;
+    }
+    .kitchen_img{
+        height: 10vh;
+        margin-left: 13%;
+    }
+    .card1{
+        height: 20vh;
+    }
+    .menu{
+        height: 3vh;
+        margin-top: 3vh;
+    }
+    .card_right{
+        height: 18vh;
+        margin-top: 3%;
+    }
+    .card_description{
+        margin-top: 9%;
+        line-height: 1vh;
+    }
+    .subscribe{
+        height: 3vh;
+    }
+    .rate{
+        height: 3vh;
+    }
+}
