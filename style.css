@@ -179,7 +179,7 @@ border-radius: 15px;
     }
     .menu{
         height: 3vh;
-        margin-top: 3vh;
+        margin-top: 1vh;
     }
     .card_right{
         height: 18vh;
@@ -194,5 +194,16 @@ border-radius: 15px;
     }
     .rate{
         height: 3vh;
+    }
+    .kitchen_name{
+        font-size: 0.7rem;
+        margin-left: 23%;
+        margin-top: 5%;
+    }
+    .card2{
+        height: 20vh;
+    }
+    .card3{
+        height: 20vh;
     }
 }
